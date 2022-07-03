@@ -3,7 +3,7 @@
 ```
 嫌われる勇気 (Japanese Edition)
 さよならの言い方なんて知らない。６（新潮文庫nex） (Japanese Edition)
-さ よならの言い方なんて知らない。５（新潮文庫nex） (Japanese Edition)
+さよならの言い方なんて知らない。５（新潮文庫nex） (Japanese Edition)
 さよならの言い方なんて知らない。4（新潮文庫nex） (Japanese Edition)
 さよならの言い方なんて知らない。3（新潮文庫nex） (Japanese Edition)
 さよならの言い方なんて知らない。２（新潮文庫nex） (Japanese Edition)
