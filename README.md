@@ -1,5 +1,5 @@
 # note
-
+https://github.com/Ksakase/note/graphs/commit-activity
 
 - 【完了】 イシューからはじめよ ― 知的生産の「シンプルな本質」
 
