@@ -47,3 +47,9 @@ SOFT SKILLS　ソフトウェア開発者の人生マニュアル (Japanese Edit
 外資系コンサルが実践する　図解作成の基本 (Japanese Edition)
 「死」とは何か　イェール大学で23年連続の人気講義 (Japanese Edition)
 ```
+
+# refs 
+```
+2022年7月4日20時24分：共通化すれば良いとは限らない
+https://susisu.hatenablog.com/entry/2022/07/03/200715
+```
