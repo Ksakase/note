@@ -2,6 +2,7 @@
 読ませて頂いたモノ
 
 ```
+- 2022年12月3日：BigQueryのストレージ料金プランを変更して、年間数千万円を節約する：https://techblog.zozo.com/entry/saving-bq-storage-cost-by-changing-storage-plan
 - 2022年11月13日：4 low-effort, high-impact ways to cut your GKE costs (and your carbon footprint) https://cloud.google.com/blog/products/containers-kubernetes/4-ways-to-optimize-your-gke-costs?hl=en
 - 2022年11月12日：データベースと向き合う決意  https://future-architect.github.io/articles/20221111a/
 - 2022年11月12日：ニッチな文化を未来に残すために、いま何をすべきか。#マンドリンの未来を考える会（まとめ） https://kzo.me/mandolin_future_wrap_up/
