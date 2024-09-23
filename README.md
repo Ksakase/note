@@ -14,5 +14,11 @@
 - 2023年2月26日：https://youtu.be/I6jB0nM9SKU
 - 2023年2月26日：https://youtu.be/V3pzxngeLqw
 
+## Google Cloud
+### BigQuery
+#### Partitioning, Clustering 
+- BigQueryのパーティションとクラスタリングについての解説 https://blog.g-gen.co.jp/
+- https://cloud.google.com/blog/ja/products/data-analytics/skip-the-maintenance-speed-up-queries-with-bigquerys-clusentry/bigquery-paritioning-and-clustering
+- 
 
 <!--2023年2月12日：https://www.youtube.com/watch?v=5b37_H2aWpE  -->
