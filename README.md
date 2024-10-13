@@ -15,6 +15,9 @@
 - 2023年2月26日：https://youtu.be/V3pzxngeLqw
 
 ## Google Cloud
+### Setup
+- install gcloud https://cloud.google.com/sdk/docs/install#linux
+
 ### BigQuery
 #### Partitioning, Clustering 
 - BigQueryのパーティションとクラスタリングについての解説 https://blog.g-gen.co.jp/
