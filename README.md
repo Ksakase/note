@@ -22,6 +22,9 @@
 #### Partitioning, Clustering 
 - BigQueryのパーティションとクラスタリングについての解説 https://blog.g-gen.co.jp/
 - https://cloud.google.com/blog/ja/products/data-analytics/skip-the-maintenance-speed-up-queries-with-bigquerys-clusentry/bigquery-paritioning-and-clustering
-- 
+
+
+## Politics 
+- https://www.mof.go.jp/english/policy/budget/budget/index.html
 
 <!--2023年2月12日：https://www.youtube.com/watch?v=5b37_H2aWpE  -->
